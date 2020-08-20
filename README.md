@@ -36,17 +36,4 @@ yarn
 ```
 yarn start
 ```
-## Outros repositórios
 
-> [Api REST](https://github.com/waliqueiroz/proffy-api)
->
-> [Front End Web](https://github.com/waliqueiroz/proffy-web)
-
-Escaneie o QR Code com seu celular para vizualizar o resultado.
-
-## Sobre o autor
-> [Wali Queiroz](https://www.linkedin.com/in/waliqueiroz/)
-> 
-> [@waliqueiroz](https://github.com/waliqueiroz)
-> 
-> [wsantos077@gmail.com](mailto:wsantos077@gmail.com)
